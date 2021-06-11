@@ -1,0 +1,20 @@
+body {
+    background-color: #F1F1F1;
+}
+
+p {
+    margin: 15px 0;
+}
+
+#sidebar section, #main-section section {
+    background-color: white;
+    margin: 25px 0;
+}
+
+.content-spacing {
+    padding: 20px 15px;
+}
+
+.description {
+    margin-bottom: 15px;
+}
